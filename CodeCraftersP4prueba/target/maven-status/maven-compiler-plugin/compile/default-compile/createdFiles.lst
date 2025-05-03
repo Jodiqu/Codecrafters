@@ -1,0 +1,16 @@
+dao\ArticuloDAO.class
+model\Premium.class
+dao\DAOException.class
+model\Pedido.class
+dao\PedidoDAO.class
+util\HibernateUtil.class
+dao\DAOFactory.class
+dao\HibernateClienteDAO.class
+dao\HibernatePremiumDAO.class
+dao\PremiumDAO.class
+model\Cliente.class
+dao\ClienteDAO.class
+dao\HibernateArticuloDAO.class
+app\ConsoleApp.class
+dao\HibernatePedidoDAO.class
+model\Articulo.class
